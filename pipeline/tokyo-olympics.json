@@ -276,7 +276,7 @@
 				},
 				"inputs": [
 					{
-						"referenceName": "Athletes",
+						"referenceName": "Teams",
 						"type": "DatasetReference"
 					}
 				],
