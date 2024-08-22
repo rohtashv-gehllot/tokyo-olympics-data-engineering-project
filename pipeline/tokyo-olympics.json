@@ -225,7 +225,7 @@
 				],
 				"outputs": [
 					{
-						"referenceName": "AthletesADSL",
+						"referenceName": "MedalsADLS",
 						"type": "DatasetReference"
 					}
 				]
