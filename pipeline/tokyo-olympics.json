@@ -168,7 +168,7 @@
 				],
 				"outputs": [
 					{
-						"referenceName": "CoachesADSL",
+						"referenceName": "EntriesGenderADSL",
 						"type": "DatasetReference"
 					}
 				]
