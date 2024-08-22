@@ -1,0 +1,9 @@
+{
+	"name": "tokyo-olympics-datafactory1",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5666b9f6-ae35-458c-8e07-bcf8dca564de",
+		"tenantId": "49d85fd8-4622-4fed-8ea7-8d55f038465d"
+	}
+}
